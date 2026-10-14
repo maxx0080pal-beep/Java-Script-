@@ -1,0 +1,173 @@
+/1.
+// let a=5;
+// let b=10;
+// console.log(a+b);
+// console.log(a-b);
+// console.log(a*b);
+// console.log(a/b);
+// console.log(a%b);
+
+//2.
+// let a=5;
+// let b=10;
+// if(a>b){
+// console.log("a is greater");
+// }
+// else{
+// console.log("b is greater");
+// }
+
+//3.,
+// let a=5;
+// let b=10;
+// console.log(a>5 && b<6);
+// console.log(a>10 || b<8);
+// console.log(a!=7);
+
+//4.
+// let a=15;
+// if(a>=1){
+// console.log("Positive");
+// }
+// else{
+// console.log("Negative");
+// }
+
+//5.
+// let a=22;
+// if(a>=18){
+// console.log("Eligible");
+// }
+// else{
+// console.log("Not Eligible");
+// }
+
+//6.
+// let a=25;
+// if(a%2===0){
+// console.log("Even");
+// }
+// else{
+// console.log("Odd");
+// }
+
+//7.
+// let a=4;
+// if(a>=1){
+// console.log("Positive");
+// }
+// else if(a<1){
+// console.log("Negative");
+// }
+// else{
+// console.log("Zero");
+// }
+
+//8.
+// let a=14;
+// if(a>=80 && a<=100){
+// console.log("A");
+// }
+// else if(a>=60 && a<=79){
+// console.log("B");
+// }
+// else if(a>=30 && a<=59){
+// console.log("C");
+// }
+// else{
+// console.log("D");
+// }
+
+//9.
+// let a=5;
+// let b=10;
+// if(a>b){
+// console.log("a is greater");
+// }
+// else{
+// console.log("b is greater");
+// }
+
+//10.
+// let y=2004;
+// if(y%4===){
+// console.log("Leap Year");
+// }
+// else{
+// console.log("Not a Leap Year");
+// }
+
+// //11.
+// for(let x=1;x<=10;x++){
+// console.log(x);
+// }
+
+// //12.
+// for(let x=1;x<=10;x++){
+// console.log(2*x);
+// }
+
+// //13.
+// let n=15;
+// for(let i=1;i<=n;i++){
+// console.log((n*(n+1)/2));
+// }
+
+//14.
+// for(let i=1;i<=50;i++){
+// if(i%2===0){
+// console.log(i);
+// }
+// }
+
+//15.
+// let c=0;
+// for(let i=1;i<=100;i++){
+// if(i%3===0){
+// c++;
+// }
+// }
+// console.log(c);
+
+// //16.
+// let a=5;
+// let b=10;
+// let c=3;
+// if(a>b && a>c){
+// console.log("a is greater");
+// }
+// else if(b>a && b>c){
+// console.log("b is greater");
+// }
+// else{
+// console.log("c is greater");
+// }
+
+// //17.
+// let a=15;
+// if((a%3===0) && (a%5===0)){
+// console.log("Divisible by both");
+// }
+// else{
+// console.log("Not divisible by both");
+// }
+
+// //18.
+// let n=15;
+// for(let a=1;a<=n;a++){
+// console.log(n*a);
+// }
+
+// //19.
+// for(let i=50;i>=1;i--){
+// console.log(i);
+// }
+
+//20.
+// let n=0;
+// for(let i=1;i<=100;i++){
+// if(i%2!=0){
+// n+=i;
+// }
+// }
+// console.log(n);
